@@ -4,7 +4,7 @@ namespace DesignPatterns
 {
     public class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             ExcelFile e = new ExcelFile();
             e.ReadProcessAndSave();
