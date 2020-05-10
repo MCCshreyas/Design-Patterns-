@@ -2,7 +2,7 @@
 
 namespace DesignPatterns
 {
-    public class TextFil
+    public class TextFile
     {
         public void ReadData()
         {
@@ -19,5 +19,4 @@ namespace DesignPatterns
             Console.WriteLine("Save data to database");
         }
     }
-
 }
